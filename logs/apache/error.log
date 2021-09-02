@@ -1,0 +1,31 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 06 02:04:56.133340 2021] [mpm_event:notice] [pid 39077:tid 4569722368] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 06 02:04:56.134383 2021] [core:notice] [pid 39077:tid 4569722368] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'
+[Fri Aug 06 02:19:08.880438 2021] [mpm_event:notice] [pid 39077:tid 4569722368] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Aug 06 02:19:13.074001 2021] [mpm_event:notice] [pid 39504:tid 4412796416] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Aug 06 02:19:13.074508 2021] [core:notice] [pid 39504:tid 4412796416] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'
+[Sat Aug 07 09:10:55.723787 2021] [mpm_event:notice] [pid 39504:tid 4412796416] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 09 18:54:44.528270 2021] [mpm_event:notice] [pid 50587:tid 4689448448] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Aug 09 18:54:44.529253 2021] [core:notice] [pid 50587:tid 4689448448] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'
+[Tue Aug 17 20:34:53.259901 2021] [mpm_event:notice] [pid 50587:tid 4689448448] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Aug 17 20:34:57.186108 2021] [mpm_event:notice] [pid 86826:tid 4313234944] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Aug 17 20:34:57.194967 2021] [core:notice] [pid 86826:tid 4313234944] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'
+[Sun Aug 22 04:04:01.775678 2021] [mpm_event:notice] [pid 86826:tid 4313234944] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Aug 29 22:40:56.178736 2021] [mpm_event:notice] [pid 44638:tid 4434542080] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Aug 29 22:40:56.179190 2021] [core:notice] [pid 44638:tid 4434542080] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'
+[Mon Aug 30 22:27:43.046208 2021] [mpm_event:notice] [pid 44638:tid 4434542080] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 30 23:04:06.341537 2021] [mpm_event:notice] [pid 836:tid 4437917184] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Aug 30 23:04:06.341966 2021] [core:notice] [pid 836:tid 4437917184] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'
+[Wed Sep 01 14:47:32.640356 2021] [mpm_event:notice] [pid 836:tid 4437917184] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 01 18:18:30.998688 2021] [mpm_event:notice] [pid 16516:tid 4618010112] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Sep 01 18:18:31.000737 2021] [core:notice] [pid 16516:tid 4618010112] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'
+[Thu Sep 02 22:17:32.614433 2021] [mpm_event:notice] [pid 16516:tid 4618010112] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 02 22:17:54.406876 2021] [mpm_event:notice] [pid 21981:tid 4395728384] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Sep 02 22:17:54.407430 2021] [core:notice] [pid 21981:tid 4395728384] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/96jobX4J6/conf/apache/apache2.conf'

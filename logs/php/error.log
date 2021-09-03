@@ -106,3 +106,109 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 5
+[03-Sep-2021 19:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_dump() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/includes/nav.php:18
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template.php(772): require()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template.php(716): load_template('/Users/yuta/Loc...', false, Array)
+#2 /Users/yuta/Local Sites/mysites/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php(11): get_template_part('includes/nav')
+#4 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include('/Users/yuta/Loc...')
+#5 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#6 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#7 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/includes/nav.php on line 18
+[03-Sep-2021 19:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_dump() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/includes/nav.php:18
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template.php(772): require()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template.php(716): load_template('/Users/yuta/Loc...', false, Array)
+#2 /Users/yuta/Local Sites/mysites/app/public/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php(11): get_template_part('includes/nav')
+#4 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include('/Users/yuta/Loc...')
+#5 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#6 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#7 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/includes/nav.php on line 18
+[03-Sep-2021 20:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_site_title() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_site_title() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_site_title() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:24:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:24:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:24:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20
+[03-Sep-2021 20:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php:20
+Stack trace:
+#0 /Users/yuta/Local Sites/mysites/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/yuta/Local Sites/mysites/app/public/wp-blog-header.php(19): require_once('/Users/yuta/Loc...')
+#2 /Users/yuta/Local Sites/mysites/app/public/index.php(17): require('/Users/yuta/Loc...')
+#3 {main}
+  thrown in /Users/yuta/Local Sites/mysites/app/public/wp-content/themes/myblog/index.php on line 20

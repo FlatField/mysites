@@ -19,16 +19,16 @@
                             </span>
                         </a>
                     </li>
-                    <li class="list-inline-item">
+                    <!-- <li class="list-inline-item">
                         <a href="#">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
-                    </li>
+                    </li> -->
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; Your Website 2020</p>
+                <p class="copyright text-muted">Copyright &copy; mysite LLC. 2021</p>
             </div>
         </div>
     </div>
